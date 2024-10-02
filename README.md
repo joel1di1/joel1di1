@@ -1,4 +1,4 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel1di1)](https://github.com/joel1di1/github-profile-trophy)
 
 <!--
 **joel1di1/joel1di1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
